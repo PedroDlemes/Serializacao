@@ -1,0 +1,6 @@
+numeroLote;tipoLiga;pesoTotal;temperaturaFundicao;statusQualidade
+1;Aço carbono;500;1500.5;Aprovado
+2;Aço inox;600;1520.0;Aprovado
+3;Liga de ferro;450;1480.5;Reprovado
+4;Aço especial;700;1550.0;Aprovado
+5;Liga metálica;550;1510.0;Aprovado

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<relatorio><amostra><idAmostra>101</idAmostra><tipoMaterial>Sangue</tipoMaterial><dataColeta>17/11/2026</dataColeta></amostra><responsavel><nomeCientista>Carlos Mendes</nomeCientista><registroProfissional>CRBio 12345</registroProfissional></responsavel><resultados><componente>Proteína X</componente><componente>Enzima Y</componente><componente>Vitamina D</componente></resultados></relatorio>
